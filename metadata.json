@@ -1,0 +1,8 @@
+{
+  "name": "Teatr Axborot Tizimi (Pro)",
+  "description": "A world-class theater management system with AI insights, CRUD operations, and aesthetic UI/UX.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
